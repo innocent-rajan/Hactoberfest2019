@@ -63,6 +63,6 @@ Hacktoberfest Classroom Project 2019
 ---
 
 ### Rajan Girsa
-[DRsterbenKYS666oof](https://github.com/innocent-rajan/)
+[Rajan](https://github.com/innocent-rajan/)
 > Hi, I am a Software Developer.
 ---
